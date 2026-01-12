@@ -1,0 +1,30 @@
+﻿{
+    "name":  "rnk-vintage-ui",
+    "version":  "1.2.4",
+    "description":  "Vintage-style UI customization for Foundry VTT",
+    "main":  "scripts/rnk-vintage-ui-main.js",
+    "scripts":  {
+                    "test":  "vitest run --coverage",
+                    "test:watch":  "vitest watch",
+                    "test:ui":  "vitest --ui",
+                    "lint":  "eslint scripts/**/*.js",
+                    "lint:fix":  "eslint scripts/**/*.js --fix"
+                },
+    "keywords":  [
+                     "foundry-vtt",
+                     "foundry",
+                     "module",
+                     "ui",
+                     "vintage",
+                     "rnk"
+                 ],
+    "author":  "Asgard Innovations / RNKâ„¢",
+    "license":  "MIT",
+    "devDependencies":  {
+                            "vitest":  "^1.2.0",
+                            "@vitest/ui":  "^1.2.0",
+                            "@vitest/coverage-v8":  "^1.2.0",
+                            "eslint":  "^8.56.0",
+                            "jsdom":  "^23.0.0"
+                        }
+}

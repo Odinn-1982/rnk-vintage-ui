@@ -1,0 +1,11 @@
+﻿# Production Files
+
+CHANGELOG.md
+DEVELOPER.md
+LICENSE
+README.md
+STATUS.md
+module.json
+package.json
+scripts\\rnk-vintage-ui-main.js
+styles\\rnk-vintage-ui.css
