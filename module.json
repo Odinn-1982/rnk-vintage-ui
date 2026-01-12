@@ -22,10 +22,10 @@
                    "styles/rnk-vintage-ui.css"
                ],
     "url":  "https://www.patreon.com/rnk",
-    "manifest":  "https://github.com/RNK-Enterprise/rnk-vintage-ui/releases/latest/download/module.json",
-    "download":  "https://github.com/RNK-Enterprise/rnk-vintage-ui/releases/download/v1.2.4/rnk-vintage-ui-v1.2.4.zip",
+    "manifest":  "https://github.com/Odinn-1982/rnk-vintage-ui/releases/latest/download/module.json",
+    "download":  "https://github.com/Odinn-1982/rnk-vintage-ui/releases/download/v1.2.4/rnk-vintage-ui-v1.2.4.zip",
     "license":  "LICENSE",
     "readme":  "README.md",
-    "bugs":  "https://github.com/RNK-Enterprise/rnk-vintage-ui/issues",
+    "bugs":  "https://github.com/Odinn-1982/rnk-vintage-ui/issues",
     "changelog":  "CHANGELOG.md"
 }
