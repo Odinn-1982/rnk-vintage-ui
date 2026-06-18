@@ -1,4 +1,4 @@
-﻿{
+{
     "name":  "rnk-vintage-ui",
     "version":  "1.2.4",
     "description":  "Vintage-style UI customization for Foundry VTT",
@@ -21,7 +21,7 @@
     "author":  "Asgard Innovations / RNKâ„¢",
     "license":  "MIT",
     "devDependencies":  {
-                            "vitest":  "^1.2.0",
+                            "vitest":  "^4.1.8",
                             "@vitest/ui":  "^1.2.0",
                             "@vitest/coverage-v8":  "^1.2.0",
                             "eslint":  "^8.56.0",
